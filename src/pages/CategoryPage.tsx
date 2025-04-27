@@ -19,19 +19,19 @@ const categoryConfig = {
   "top-deals": {
     title: "Top Deals",
     description: "The best prices across all products",
-    image: "/placeholder.svg",
+    image: "/lovable-uploads/b159be6e-4b0d-4f54-be02-c98f08b7a720.png",
     dataset: "amazon_products_1",
   },
   skincare: {
     title: "Skincare Essentials",
     description: "Premium products for your skin",
-    image: "/placeholder.svg",
+    image: "/lovable-uploads/b159be6e-4b0d-4f54-be02-c98f08b7a720.png",
     dataset: "amazon_product_2",
   },
   "smart-watches": {
     title: "Smart Watches",
     description: "Stay connected with the latest technology",
-    image: "/placeholder.svg",
+    image: "/lovable-uploads/b159be6e-4b0d-4f54-be02-c98f08b7a720.png",
     dataset: "flipkart_1",
   },
 };
